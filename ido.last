@@ -1,0 +1,285 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/vendors/" . "css/")
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/" . "vendors/")
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/frontend/" . "config/")
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/common/" . "libs/")
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/" . #("preparation/" 0 4 (face flx-highlight-face)))
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/" . #("views/" 0 4 (face flx-highlight-face)))
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/" . #("backend/" 0 3 (face flx-highlight-face)))
+ ("/Users/xiaolin/Sites/chinarnd/" . "mrd2/")
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/web/" . ".htaccess/")
+ ("/Users/xiaolin/Sites/tmp/yii2/common/messages/" . "en-us/")
+ ("/Users/xiaolin/Sites/tmp/yii2/messages/" . "en-US/")
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/views/" . "layouts/")
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/" . "controllers/")
+ ("/Users/xiaolin/Sites/tmp/yii2/common/" . "messages/")
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/views/" . "site/")
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/" . "views/")
+ ("/Users/xiaolin/Sites/tmp/yii2/" . "backend/")
+ ("/Users/xiaolin/Sites/tmp/" . "yii2/")
+ ("/Users/xiaolin/Sites/chinarnd/rnd/public/admin/" . "js/")
+ ("/Users/xiaolin/Sites/chinarnd/rnd/public/" . "admin/")
+ ("/Users/xiaolin/Documents/" . "markdown/")
+ ("/Users/" . "xiaolin/")
+ ("/Users/xiaolin/" . "Documents/")
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/" . "views/")
+ ("/Users/xiaolin/Sites/chinarnd/rnd/" . "protected/")
+ ("/Users/xiaolin/Sites/" . #("chinarnd/" 0 3 (face flx-highlight-face)))
+)
+
+;; ----- ido-work-directory-list -----
+(
+ #("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/preparation/" 43 47 (face flx-highlight-face) 49 53 (face flx-highlight-face))
+ #("/Users/xiaolin/Sites/chinarnd/mrd2/backend/controllers/" 15 20 (face flx-highlight-face) 21 24 (face flx-highlight-face) 30 35 (face flx-highlight-face) 35 38 (face flx-highlight-face) 43 48 (face flx-highlight-face))
+ "/Users/xiaolin/Documents/markdown/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/models/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/acquisition/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/common/libs/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/common/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/layouts/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/common/models/"
+ "/Users/xiaolin/Sites/chinarnd/rnd/protected/models/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/cro/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/qa/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/backup/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/report/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/warehouse/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/assets/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/calendar/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/tasks/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/welcome/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/data/"
+ "/Users/xiaolin/Sites/chinarnd/rnd/public/admin/js/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/config/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/vendors/css/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/vendors/js/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/common/config/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/frontend/config/"
+ "/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/login/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/controllers/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/views/layouts/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/views/welcome/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/config/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/web/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/views/site/"
+ "/Users/xiaolin/Sites/tmp/yii2/frontend/views/site/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/messages/en-us/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/messages/zh-cn/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/messages/zh-CN/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/messages/en-US/"
+ "/Users/xiaolin/Sites/tmp/yii2/frontend/config/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/config/"
+ "/Users/xiaolin/Sites/tmp/yii2/frontend/controllers/"
+ "/Users/xiaolin/Sites/tmp/yii2/messages/en-US/"
+ "/Users/xiaolin/Sites/tmp/yii2/messages/zh-CN/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/models/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/views/rbac/"
+ "/Users/xiaolin/Sites/tmp/yii2/backend/models/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/libs/"
+ "/Users/xiaolin/Sites/tmp/yii2/libs/"
+ "/Users/xiaolin/Sites/tmp/yii2/common/mail/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ #("view.php" 0 6 (face flx-highlight-face))
+ #("PreparationController.php" 0 3 (face flx-highlight-face))
+ "yii2.md"
+ "WarehouseController.php"
+ "LoginController.php"
+ "LoginForm.php"
+ "BackendController.php"
+ "_view.js"
+ "CommonController.php"
+ "myhelper.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ (#("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/preparation/" 43 47 (face flx-highlight-face) 49 53 (face flx-highlight-face)) (22364 61042 0 0) "view.php" "summary.php" "profiling.php" "manual_dataprep.php" "index.php" "etl_dataprep.php" "data_inspection.php" "_view.js" "_summary.js" "_profile.js" "_manual_data.js" "_etl_data.js" "_data_insp.js" "../" "./")
+
+ (#("/Users/xiaolin/Sites/chinarnd/mrd2/backend/controllers/" 15 20 (face flx-highlight-face) 21 24 (face flx-highlight-face) 30 35 (face flx-highlight-face) 35 38 (face flx-highlight-face) 43 48 (face flx-highlight-face)) (22364 64106 0 0) "WelcomeController.php" "WarehouseController.php" "TasksController.php" "SiteController.php" "ReportController_flymake-NSConflict-xiaolin.php" "ReportController.php" "QaController.php" "PreparationController.php" "LoginController.php" "DataController.php" "CroController.php" "CommonController.php" "CalendarController.php" "BackupController.php" "BackendController.php" "AcquisitionController_flymake-NSConflict-xiaolin.php" "AcquisitionController.php" "../" "./")
+
+ ("/Users/xiaolin/" (22365 11395 0 0) "www/" "VirtualBox VMs/" "Software/" "Soft/" "Sites/" "site/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "company/" "Applications/" ".zshrc" ".zlogin" ".vscode/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".swt/" ".swp" ".subversion/" ".ssh/" ".srecode/" ".spacemacs" ".sogouinput/" ".smex-items" ".semanticdb/" ".rvm/" ".rediscli_history" ".python_history" ".putty/" ".profile" ".nutstore/" ".npm/" ".mysql_history" ".mongorc.js" ".mkshrc" ".lldb/" ".gnupg/" ".gitconfig" ".gemrc" ".gem/" ".filezilla/" ".emacs.keyfreq" ".emacs.d/" ".emacs-old1.d/" ".DS_Store" ".docker/" ".dbshell" ".config/" ".composer/" ".codeintel/" ".CFUserTextEncoding" ".boot2docker/" ".bashrc" ".bash_sessions/" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".backups/" ".atom/" "../" "./")
+
+ ("/Users/xiaolin/Sites/" (22364 57517 0 0) "ztree/" "weixin/" "tp5/" "TP-Admin/" "tp/" "tmp/" "think/" "theme/" "test.php" "temp/" "PHPTree/" "mrd-backend(copy)/" "metronic.js" "index.html" "html/" "hmpl/" "fullcalendar/" "error_log" "echarts/" "css3/" "CI/" "chinarnd/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/" (22364 57512 0 0) "yii.bat" "yii" "vendor/" "Vagrantfile" "vagrant/" "tests/" "requirements.php" "README.md" "LICENSE.md" "init.bat" "init" "frontend/" "environments/" "console/" "composer.lock" "composer.json" "common/" "backend/" ".gitignore" ".DS_Store" ".bowerrc" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/common/libs/" (22364 64269 0 0) "myhelper.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/acquisition/" (22364 50776 0 0) "view.php" "index.php" "_view.js" "_index.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/common/" (22353 14023 0 0) "index.php" "add.php" "_add.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/layouts/" (22352 63464 0 0) "main.php" "main-login.php" "main-1.php" "left.php" "js.php" "header.php" "content.php" "content-admin.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/" (22353 11486 0 0) "welcome/" "warehouse/" "tasks/" "site/" "report/" "qa/" "preparation/" "login/" "layouts/" "data/" "cro/" "common/" "calendar/" "backup/" "acquisition/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/common/models/" (22352 59183 0 0) "View_Tasks_View.php" "View_tasks.php" "View_calender.php" "User.php" "Taskitems_flymake-NSConflict-xiaolin.php" "Taskitems.php" "Task_personnel.php" "Task_logs.php" "LoginForm.php" "Dblocation.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/cro/" (22351 60789 0 0) "view.php" "index.php" "_view.js" "_index.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/qa/" (22351 60769 0 0) "view.php" "index.php" "_view.js" "_index.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/report/" (22351 57800 0 0) "log-index.php" "index.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/backup/" (22351 58173 0 0) "log-index.php" "index.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/warehouse/" (22351 57136 0 0) "setup-view.php" "log-view.php" "log-index.php" "index.php" "_setup_view.js" "_index.js" "../" "./")
+
+ ("/Users/xiaolin/.emacs.d/" (22351 56870 0 0) "snippets/" "site-lisp/" "recentf" "pyim/" "misc/" "lisp/" "init.el" "init-web-mode.el" "ido.last" "history" "games/" "elpa/" "company-statistics-cache.el" "code/" "auto-save-list/" "ac-comphist.dat" ".session" ".git/" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/assets/" (22351 46916 0 0) "AppAsset_flymake-NSConflict-xiaolin.php" "AppAsset.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/calendar/" (22350 42392 0 0) "index.php" "detail.php" "_index.js" "_calendar.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/welcome/" (22350 40582 0 0) "login.php" "index.php" "error.php" "_calendar.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/tasks/" (22350 40552 0 0) "index.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/data/" (22350 40524 0 0) "index.php" "_index.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/common/" (22350 38991 0 0) "widgets/" "models/" "mail/" "libs/" "config/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Documents/markdown/" (22350 27021 0 0) "yii2.md" "yii2.html" "markdown.css" "c++.md" "c++.html" "6.jpg" "5.jpg" "4.jpg" "3.jpg" "2.jpg" "1.jpg" ".git/" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/config/" (22350 28764 0 0) "params.php" "params-local.php" "main.php" "main-local.php" "bootstrap.php" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/vendors/css/" (22350 21421 0 0) "themify-icons.css" "skins/" "portlet-expand-icon-white.png" "portlet-collapse-icon-white.png" "main.css.map" "main.css" "jquery-ui.css" "images/" "fullcalendar.css" "fonts/" "font-awesome.min.css" "font-awesome.css" "fancybox.css" "edit_remove.png" "edit_add.png" "details_open.png" "details_close.png" "data.css" "customs.css" "animate.min.css" "animate.css" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/vendors/js/" (22350 20541 0 0) "yii2.js" "x-editable.js" "vector.js" "tour.js" "table-edit.js" "sortable.js" "show.js" "scrollTop.js" "progress-slider.js" "pickers.js" "offscreen.js" "notifications.js" "mergeRowsCell.js" "maps.js" "main.js" "jstree.js" "jquery.form.min.js" "jquery.fancybox-1.3.1.pack.js" "jquery-lib.js" "general.js" "gallery.js" "form-wysiwyg.js" "form-wizard.js" "form-masks.js" "form-custom.js" "form-crop.js" "editor.js" "demo-mock.js" "datatables.js" "dashboard.js" "chart.js" "catalog.js" "calendar副本.js" "calendar.js" "buttons.js" "bootstrap-datatables.js" "animated.js" "acq.js" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/assets/" (22349 22836 0 0) "dce880ce/" "d20a97fb/" "b3d83723/" "9c524f8a/" "518dcc73/" "36091ab4/" "2d4b68a5/" "292ff95f/" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/vendors/" (22349 23773 0 0) "plugins/" "less/" "js/" "jquery-datatime/" "img/" "fonts/" "easyui/" "dist/" "dataTables/" "data/" "css/" "calendar/" "bootstrap/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/web/" (22349 23727 0 0) "vendors/" "robots.txt" "index.php" "index-test.php" "favicon.ico" "css/" "assets/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/frontend/config/" (22348 63925 0 0) "params.php" "params-local.php" "main.php" "main-local.php" "bootstrap.php" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/frontend/" (22306 14755 0 0) "web/" "views/" "runtime/" "models/" "controllers/" "config/" "assets/" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/" (22349 19614 0 0) "template/" "rndcloud/" "rnd_version2/" "rnd_hmpl/" "rnd_crodirectory/" "rnd/" "public/" "osis/" "mrd2副本/" "mrd2/" "mrd-backend/" "mrd/" "frontend/" ".settings/" ".project" ".DS_Store" ".buildpath" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/views/login/" (22349 16755 0 0) "login.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/models/" (22349 18816 0 0) "Personnel.php" "LoginForm.php~" "LoginForm.php" ".gitkeep" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/common/config/" (22349 10265 0 0) "params.php" "params-local.php" "main.php" "main-local.php" "bootstrap.php" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/mrd2/backend/" (22349 4598 0 0) "web/" "views/" "runtime/" "models/" "controllers/" "config/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/models/" (22348 62245 0 0) "User-1.php" "Rbac.php" ".gitkeep" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/controllers/" (22348 62225 0 0) "WelcomeController.php" "SiteController.php" "RbacController.php" "NewsController.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/views/layouts/" (22347 62341 0 0) "main.php" "main-login.php" "left.php" "header.php" "content.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/web/" (22347 52355 0 0) "robots.txt" "index.php" "index-test.php" "favicon.ico" "css/" "assets/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/models/" (22347 52355 0 0) "SignupForm.php" "ResetPasswordForm.php" "PasswordResetRequestForm.php" "EntryForm.php" "ContactForm.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/views/" (22347 52355 0 0) "welcome/" "site/" "layouts/" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/views/layouts/" (22347 52355 0 0) "main.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/mail/" (22347 52355 0 0) "passwordResetToken-text.php" "passwordResetToken-html.php" "layouts/" "email.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/libs/" (22347 52355 0 0) "Tools.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/models/" (22347 52355 0 0) "User.php" "LoginForm.php" "Country.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/messages/en-US/" (22347 52355 0 0) "app.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/controllers/" (22347 52355 0 0) "WelcomeController.php" "SiteController.php" "BaseController.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/config/" (22347 52355 0 0) "params.php" "params-local.php" "main.php" "main-local.php" "bootstrap.php" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/config/" (22347 52355 0 0) "params.php" "params-local.php" "main.php" "main-local.php" "bootstrap.php" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/messages/en-US/" (22347 52355 0 0) "app.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/messages/zh-CN/" (22347 52355 0 0) "app.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/messages/zh-cn/" (22347 52355 0 0) "app.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/messages/en-us/" (22347 52355 0 0) "app.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/views/site/" (22347 52355 0 0) "index.php" "entry.php" "country.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/views/site/" (22347 53897 0 0) "login.php" "index.php" "error.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/web/" (22347 52355 0 0) "robots.txt" "index.php" "index-test.php" "favicon.ico" "css/" "assets/" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/config/" (22347 54888 0 0) "params.php" "params-local.php" "main.php" "main-local.php" "bootstrap.php" ".gitignore" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/views/welcome/" (22347 53451 0 0) "index.php" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/views/" (22347 57279 0 0) "welcome/" "user/" "site-1/" "site/" "layouts-1/" "layouts/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/" (22347 53404 0 0) "yii2/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/" (22347 53410 0 0) "yii.bat" "yii" "vendor/" "Vagrantfile" "vagrant/" "tests/" "requirements.php" "README.md" "messages/" "LICENSE.md" "init.bat" "init" "frontend/" "environments/" "console/" "composer.lock" "composer.json" "common/" "backend/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/" (22347 53410 0 0) "web/" "views/" "runtime/" "models/" "controllers/" "config/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/web/.htaccess/" (22347 46002 0 0) "ddd/" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/messages/" (22347 39317 0 0) "zh-cn/" "en-us/" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/common/" (22344 3885 0 0) "widgets/" "models/" "messages/" "mail/" "libs/" "config/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/messages/zh-CN/" (22344 2703 0 0) "app.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/messages/" (22344 2587 0 0) "zh-CN/" "en-US/" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/backend/views/rbac/" (22343 61725 0 0) "itemIndex.php" "_itemform.php" "_itemChildForm.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/frontend/" (22343 58371 0 0) "web/" "views/" "runtime/" "models/" "controllers/" "config/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/tmp/yii2/libs/" (22343 56803 0 0) "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/views/pharma/" (22342 37739 0 0) "pharma_single.php" "pharma_index.php" "pharma_compare.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/views/drug/" (22342 28121 0 0) "drug_single.php" "drug_list.php" "drug_compare.php" "../" "./")
+
+ ("/Users/xiaolin/Documents/python3/" (22341 7171 0 0) "test1.py" "test.py" "map.py" "list.py" "learning.py" "Itcase/" "if.py" "fun.py~" "fun.py" "for.py" ".git/" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/models/" (22341 24707 0 0) "User_user.php" "User_mylist_cont.php" "User_mylist.php" "User_dashboard.php" "Trl_main.php" "Trl_ct_study_outcome.php" "Trl_ct_sponsors.php" "Trl_ct_results_restriction_agreements.php" "Trl_ct_results_point_of_contact.php" "Trl_ct_results_partic_flows.php" "Trl_ct_results_partflow_mlstn_grp.php" "Trl_ct_results_partflow_mlstn.php" "Trl_ct_results_outcomes.php" "Trl_ct_results_outcome_measure_ctgy.php" "Trl_ct_results_outcome_measure.php" "Trl_ct_results_outcome_analysis_grp.php" "Trl_ct_results_outcome_analysis.php" "Trl_ct_results_baseline_measures_catgy.php" "Trl_ct_results_baseline_measures.php" "Trl_ct_results_baseline.php" "Trl_ct_reported_events.php" "Trl_ct_reported_event_ctgy_grp.php" "Trl_ct_reported_event_ctgy.php" "Trl_ct_references.php" "Trl_ct_overall_officials.php" "Trl_ct_investigators.php" "Trl_ct_interventions_flymake-NSConflict-xiaolin.php" "Trl_ct_interventions.php" "Trl_ct_intervention_other_names.php" "Trl_ct_intervention_arm_groups.php" "Trl_ct_facility_contacts.php" "Trl_ct_facilities.php" "Trl_ct_conditions.php" "Trl_ct_clinical_study.php" "Trl_ct_authorities.php" "Trl_ct_arm_groups_flymake-NSConflict-xiaolin.php" "Trl_ct_arm_groups.php" "Trl_cde_studypi.php" "Trl_cde_sponsor.php" "Trl_cde_site.php" "Trl_cde_outcome.php" "Trl_cde_main.php" "Trl_cde_eligibility.php" "Trl_cde_ec.php" "Trl_cde_arm.php" "Ste_trial2.php" "Ste_site2.php" "Ste_main.php" "Ste_investigator.php" "Ste_deptmoh.php" "Reg_related2.php" "Reg_main.php" "Pub_list_view.php" "Pub_authors.php" "Phmdrg_trial2.php" "Phmdrg_investigational.php" "Phmdrg_approved.php" "Phm_subcomp.php" "Phm_news.php" "Phm_main.php" "LoginForm.php" "Log_in.php" "Log_attempts.php" "Inv_trial2.php" "Inv_publication.php" "Inv_main.php" "Inv_collaborator2.php" "Inv_assn2.php" "Drg_pub.php" "Drg_main.php" "Drg_category.php" "Dis_main.php" "Cro_service_kind.php" "Cro_basics.php" "ContactForm.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/public/admin/js/" (22341 27832 0 0) "trials_index.js" "site_map.js" "site_index.js" "registration_index.js" "pharma_index.js" "mrd_common.js" "investigator_index.js" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/controllers/" (22341 27729 0 0) "TrialsController_flymake-NSConflict4620-xiaolin.php" "TrialsController_flymake-NSConflict-xiaolin.php" "TrialsController.php" "SiteController.php" "SiteController-1.php" "RegistrationController.php" "PublicationController_flymake-NSConflict-xiaolin.php" "PublicationController.php" "PharmaController.php" "PatentController_flymake-NSConflict-xiaolin.php" "PatentController.php" "MyTrialsController.php" "MySiteController.php" "MyRegistrationController.php" "MyPublicationController.php" "MyPharmaController.php" "MyInvestigatorController.php" "MyDrugController.php" "LoginController.php" "InvestigatorController.php" "IndexController.php" "DrugController.php" "CroController.php" "CommonController.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/public/admin/" (22294 58480 0 0) "pages/" "myplugins/" "layout3/" "layout/" "js/" "charts/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/public/" (22294 58447 0 0) "tableExport/" "jquery.jqprint/" "global/" "flot/" "chart/" "admin/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/views/investigator/" (22341 19536 0 0) "inv_single.php" "inv_list.php" "inv_compare.php" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/views/site/" (22341 17787 0 0) "site_single.php" "site_list.php" "site_compare.php" "error.php" "../" "./")
+
+ ("/Users/xiaolin/Documents/c-c++/" (22341 7159 0 0) "strstr.c" "README.md" "pointer.c" "point.c" "main.c" "head.h" "func.c" "demo2.cpp" "demo1111.c" "demo.c" "charstr.cpp" "char1.c" "ccccc.cpp" "array3.c" "array1.c" ".git/" "../" "./")
+
+ ("/Users/xiaolin/Documents/" (22333 5682 0 0) "sublime/" "python3/" "python27/" "python/" "nodeJs/" "metronic/" "markdown/" "lua/" "javascript/" "Django/" "c-c++/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/.emacs.d/lisp/" (22341 6882 0 0) "init-zencoding-mode.el" "init-yasnippet.el" "init-xterm.el" "init-writting.el" "init-workgroups2.el" "init-windows.el" "init-which-func.el" "init-web-mode.el" "init-web-mode-old.el" "init-utils.el" "init-uniquify.el" "init-textile.el" "init-term-mode.el" "init-spelling.el" "init-smex.el" "init-slime.el" "init-site-lisp.el" "init-sh.el" "init-sessions.el" "init-semantic.el" "init-ruby-mode.el" "init-python-mode.el" "init-pomodoro.el" "init-org.el" "init-org-mime.el" "init-moz.el" "init-modeline.el" "init-misc.el" "init-misc-lazy.el" "init-markdown.el" "init-lua-mode.el" "init-locales.el" "init-lisp.el" "init-linum-mode.el" "init-keyfreq.el" "init-javascript.el" "init-ivy.el" "init-ido.el" "init-ibuffer.el" "init-hydra.el" "init-httpd.el" "init-hs-minor-mode.el" "init-hippie-expand.el" "init-haskell.el" "init-gui-frames.el" "init-gud.el" "init-gtags.el" "init-gnus.el" "init-git.el" "init-frame-hooks.el" "init-fonts.el" "init-flymake.el" "init-exec-path.el" "init-evil.el" "init-erlang.el" "init-emacspeak.el" "init-emacs-w3m.el" "init-elpa.el" "init-elisp.el" "init-doxygen.el" "init-dired.el" "init-ctags.el" "init-csv.el" "init-css.el" "init-crontab.el" "init-cperl-mode.el" "init-compat.el" "init-company.el" "init-color-theme.el" "init-clipboard.el" "init-chinese-pyim.el" "init-cc-mode.el" "init-bbdb.el" "init-artbollocks-mode.el" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/views/registration/" (22341 2814 0 0) "reg_single.php" "reg_list.php" "reg_compare.php" "../" "./")
+
+ ("/Users/" (22054 58389 0 0) "xiaolin/" "Shared/" "qingtuan/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/views/" (22297 36852 0 0) "trials/" "site/" "show_message.php" "registration/" "publication/" "pharma/" "patent/" "myTrials/" "mySite/" "myRegistration/" "myPublication/" "myPharma/" "myInvestigator/" "myDrug/" "login/" "layouts/" "investigator/" "index/" "drug/" "cro/" "common/" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/protected/" (22292 37963 0 0) "yiic.php" "yiic.bat" "yiic" "views/" "vendor/" "tests/" "runtime/" "models/" "migrations/" "messages/" "extensions/" "data/" "controllers/" "config/" "components/" "commands/" ".htaccess" ".DS_Store" "../" "./")
+
+ ("/Users/xiaolin/Sites/chinarnd/rnd/" (22331 52978 0 0) "themes/" "public/" "protected/" "index.php" "index-test.php" "framework/" "assets/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
