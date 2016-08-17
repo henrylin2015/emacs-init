@@ -213,7 +213,27 @@
 (add-to-list 'load-path "~/.emacs.d/code/neotree/neotree")
 (require 'neotree)
 (global-set-key [f8] 'neotree-toggle)
-
+;;;;;;;添加如下代码:2016年08月17日11:04:38
+;;;yasnippet
+(add-to-list 'load-path
+             "~/.emacs.d/code/yasnippet-master")
+(require 'yasnippet) ;; not yasnippet-bundle
+(yas/initialize)
+(yas/load-directory "~/.emacs.d/code/yasnippet-master/snippets")
+;; scala-mode
+(add-to-list 'load-path "~/.emacs.d/code/scala-mode")
+(require 'scala-mode-auto) ;; 编辑.scala文件时自动启动scala mode
+;; scala yasnippet
+(setq yas/my-directory "~/.emacs.d/code/scala-mode/contrib/yasnippet/snippets")
+(yas/load-directory yas/my-directory)
+(add-hook 'scala-mode-hook
+          '(lambda ()
+             (yas/minor-mode-on)
+             ))
+;; scala-ensime这里有问题
+;;(add-to-list 'load-path "~/.emacs.d/code/ensime")
+;;(require 'ensime)
+;;(add-hook 'scala-mode-hook 'ensime-scala-mode-hook);; scala mode下自动启动ensime
 
 
 ;;; Local Variables:
